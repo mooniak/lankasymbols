@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Lanka Symbols';
+  font-style: normal;
+  font-weight: normal;
+  src: url("./lankasymbols-Regular.woff"),format("woff");
+  src: url("./lankasymbols-Regular.woff2") format("woff2"), url("../webfonts/fa-brands-400.woff"); }
+}
