@@ -1,0 +1,9 @@
+for layer in Font.selectedLayers:
+	glyph = layer.parent
+	print '| <i class="lki %s"></i> 	|  %s |  `u+%s` |  `<i class="ls %s"></i>`| <span class="display-text">%s</span> | ' % (glyph.name, glyph.name, glyph.unicode,  glyph.name, glyph.string, )
+
+
+
+for layer in Font.selectedLayers:
+	glyph = layer.parent
+	print '.%s:before {content: "\%s";} ' % (glyph.name, glyph.unicode,)
