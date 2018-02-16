@@ -2,15 +2,15 @@
 *
 */
 @font-face {
-    font-family: 'LankaSymbols';
+    font-family: 'LankaIcons';
     font-style: normal;
     font-weight: normal;
-    src: url("LankaSymbols-Regular.woff"),format("woff");
-    src: url("LankaSymbols-Regular.woff2") format("woff2");
+    src: url("LankaIcons-Regular.woff"),format("woff");
+    src: url("LankaIcons-Regular.woff2") format("woff2");
 }
 
 .ls{
-    font-family: 'LankaSymbols';
+    font-family: 'LankaIcons';
     font-style: normal;
     display:inline-block;
     font-size:inherit;

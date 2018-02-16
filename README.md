@@ -1,1 +1,1 @@
-# lankasymbols
+# Lanka Icons

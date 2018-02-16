@@ -7,19 +7,23 @@
 	<key>capHeight</key>
 	<integer>740</integer>
 	<key>copyright</key>
-	<string>Copyright 2018 Lanka Symbols font project authors</string>
+	<string>Copyright 2018 Lanka Icons font project authors</string>
 	<key>descender</key>
 	<integer>-220</integer>
 	<key>familyName</key>
-	<string>Lanka Symbols</string>
+	<string>Lanka Icons</string>
 	<key>guidelines</key>
 	<array/>
+	<key>italicAngle</key>
+	<integer>0</integer>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2018/02/14 09:37:36</string>
 	<key>openTypeNameDesigner</key>
 	<string>Multiple Desingers</string>
+	<key>openTypeNameDesignerURL</key>
+	<string></string>
 	<key>openTypeNameLicense</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>
@@ -29,7 +33,7 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://textual.works/</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Lanka Symbols</string>
+	<string>Lanka Icons</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeNameVersion</key>
@@ -56,7 +60,7 @@
 	<key>postscriptFamilyOtherBlues</key>
 	<array/>
 	<key>postscriptFontName</key>
-	<string>LankaSymbols-Regular</string>
+	<string>LankaIcons-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array/>
 	<key>postscriptStemSnapH</key>
