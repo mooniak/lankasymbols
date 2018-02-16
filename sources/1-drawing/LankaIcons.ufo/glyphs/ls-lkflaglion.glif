@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ls-lkflaglion" format="2">
-	<advance width="879"/>
 	<unicode hex="E000"/>
+	<advance width="879"/>
 	<outline>
 		<contour>
 			<point x="723" y="50" type="curve"/>
@@ -1561,7 +1561,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 04:29:42 +0000</string>
+			<string>2018-02-16 08:00:55 +0000</string>
 		</dict>
 	</lib>
 </glyph>

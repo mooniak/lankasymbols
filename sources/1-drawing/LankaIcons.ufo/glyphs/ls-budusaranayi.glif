@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ls.budusaranayi" format="2">
-	<advance width="2771"/>
+<glyph name="ls-budusaranayi" format="2">
 	<unicode hex="E003"/>
+	<advance width="2771"/>
 	<outline>
 		<contour>
 			<point x="146" y="167" type="line"/>
@@ -304,7 +304,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 04:12:23 +0000</string>
+			<string>2018-02-16 08:00:55 +0000</string>
 		</dict>
 	</lib>
 </glyph>

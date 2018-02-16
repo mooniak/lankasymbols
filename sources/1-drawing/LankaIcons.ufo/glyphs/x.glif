@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="x" format="2">
-	<advance width="505"/>
 	<unicode hex="0078"/>
+	<advance width="505"/>
 	<outline>
 		<contour>
 			<point x="407" y="0" type="line"/>
@@ -29,7 +29,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 04:44:24 +0000</string>
+			<string>2018-02-16 08:00:55 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 			</dict>
