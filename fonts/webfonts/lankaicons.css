@@ -1,5 +1,5 @@
 /*
-* Lanka Icons DEV 
+* Lanka Icons DEV
 */
 @font-face {
     font-family: 'LankaIcons';
@@ -23,16 +23,17 @@
 .cross:before {content: "\271D";}
 .starAndCrescent:before {content: "\262A";}
 .wheelOfDharma:before {content: "\2638";}
-.lki-sls:before {content: "\E010";}
 .lki-lkflaglion:before {content: "\E000";}
 .lki-flaglion-outline:before {content: "\E001";}
+.lki-sls:before {content: "\E010";}
 .lki-budusaranayi:before {content: "\F000";}
 .lki-bulath:before {content: "\F100";}
 .lki-pahan:before {content: "\F101";}
 .lki-stupa:before {content: "\F102";}
-.lki-elephantR:before {content: "\F301";}
 .lki-elephantL:before {content: "\F300";}
+.lki-elephantR:before {content: "\F301";}
 .lki-punkalasa:before {content: "\F302";}
 .lki-bahirawa:before {content: "\F400";}
 .lki-walakul:before {content: "\F401";}
 .lki-kambi:before {content: "\F500";}
+.lki-tutuk:before {content: "\F600";}
