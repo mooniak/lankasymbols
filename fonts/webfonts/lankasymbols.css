@@ -1,31 +1,32 @@
 /*
- *
- */
- @font-face {
-  font-family: 'LankaSymbols';
-  font-style: normal;
-  font-weight: normal;
-  src: url("LankaSymbols-Regular.woff"),format("woff");
-  src: url("LankaSymbols-Regular.woff2") format("woff2"); }
+*
+*/
+@font-face {
+    font-family: 'LankaSymbols';
+    font-style: normal;
+    font-weight: normal;
+    src: url("./LankaSymbols-Regular.woff"),format("woff");
+    src: url("./LankaSymbols-Regular.woff2") format("woff2");
+}
 
-.ls
- {
-   font-family: 'LankaSymbols';
-   font-style: normal;
-display:inline-block;
- 	font-size:inherit;
- 	text-rendering:auto;
- 	-webkit-font-smoothing:antialiased;
- 	-moz-osx-font-smoothing:grayscale;}
+.ls{
+    font-family: 'LankaSymbols';
+    font-style: normal;
+    display:inline-block;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+}
 
 .ls-lkflaglion:before {
     content: "\e000";
-  }
+}
 
 .ls-sls:before {
-  content: "\e002";
+    content: "\e002";
 }
 
 .ls-budusaranayi:before {
-  content: "\e003";
+    content: "\e003";
 }
