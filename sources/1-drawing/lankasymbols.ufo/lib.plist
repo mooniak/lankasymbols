@@ -4,6 +4,15 @@
 <dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>GSOffsetHorizontal</key>
+		<integer>1</integer>
+		<key>GSOffsetMakeStroke</key>
+		<integer>1</integer>
+		<key>GSOffsetVertical</key>
+		<integer>1</integer>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>67633A7E-4DBD-4044-82C2-157ABF650F78</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
@@ -17,8 +26,9 @@
 		<string>CR</string>
 		<string>.notdef</string>
 		<string>ls.sls</string>
-		<string>mooniak</string>
+		<string>ls-lkflaglion</string>
 		<string>ls.budusaranayi</string>
+		<string>mooniak</string>
 	</array>
 </dict>
 </plist>
