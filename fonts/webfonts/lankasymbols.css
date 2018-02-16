@@ -1,17 +1,17 @@
 /*
-* Lanka Icons DEV
+* Lanka Symbols DEV
 */
 @font-face {
-    font-family: 'LankaIcons';
+    font-family: 'LankaSymbols';
     font-style: normal;
     font-weight: normal;
-    src: url("LankaIcons.ttf"),format("trutype");
-    src: url("LankaIcons.woff"),format("woff");
-    src: url("LankaIcons.woff2") format("woff2");
+    src: url("LankaSymbols.ttf"),format("trutype");
+    src: url("LankaSymbols.woff"),format("woff");
+    src: url("LankaSymbols.woff2") format("woff2");
 }
 
 .lki{
-    font-family: 'LankaIcons';
+    font-family: 'LankaSymbols';
     font-style: normal;
     display:inline-block;
     font-size:inherit;

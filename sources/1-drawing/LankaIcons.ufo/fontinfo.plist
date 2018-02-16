@@ -7,11 +7,11 @@
 	<key>capHeight</key>
 	<integer>740</integer>
 	<key>copyright</key>
-	<string>Copyright 2018 Lanka Icons font project authors</string>
+	<string>Copyright 2018 Lanka Symbols font project authors</string>
 	<key>descender</key>
 	<integer>-220</integer>
 	<key>familyName</key>
-	<string>Lanka Icons</string>
+	<string>Lanka Symbols</string>
 	<key>guidelines</key>
 	<array/>
 	<key>note</key>
@@ -31,7 +31,7 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://textual.works/</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Lanka Icons</string>
+	<string>Lanka Symbols</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeNameVersion</key>
@@ -60,9 +60,9 @@
 	<key>postscriptFamilyOtherBlues</key>
 	<array/>
 	<key>postscriptFontName</key>
-	<string>LankaIcons</string>
+	<string>LankaSymbols</string>
 	<key>postscriptFullName</key>
-	<string>LankaIcons-Regular</string>
+	<string>LankaSymbols-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array/>
 	<key>postscriptStemSnapH</key>
