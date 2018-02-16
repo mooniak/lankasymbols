@@ -5,8 +5,8 @@
     font-family: 'LankaSymbols';
     font-style: normal;
     font-weight: normal;
-    src: url("./LankaSymbols-Regular.woff"),format("woff");
-    src: url("./LankaSymbols-Regular.woff2") format("woff2");
+    src: url("LankaSymbols-Regular.woff"),format("woff");
+    src: url("LankaSymbols-Regular.woff2") format("woff2");
 }
 
 .ls{
