@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="2">
+	<advance width="674"/>
+	<unicode hex="0041"/>
+	<note>
+		520
+  </note>
+	<outline>
+		<contour>
+			<point x="14" y="0" type="line"/>
+			<point x="95" y="0" type="line"/>
+			<point x="343" y="701" type="line"/>
+			<point x="329" y="701" type="line"/>
+			<point x="577" y="0" type="line"/>
+			<point x="660" y="0" type="line"/>
+			<point x="394" y="740" type="line"/>
+			<point x="280" y="740" type="line"/>
+		</contour>
+		<contour>
+			<point x="153" y="239" type="line"/>
+			<point x="521" y="239" type="line"/>
+			<point x="502" y="308" type="line"/>
+			<point x="172" y="308" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="ogonek" x="660" y="0"/>
+	<anchor name="bottom" x="337" y="0"/>
+	<anchor name="top" x="337" y="760"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-16 04:44:24 +0000</string>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

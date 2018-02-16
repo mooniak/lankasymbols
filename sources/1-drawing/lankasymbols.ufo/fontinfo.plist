@@ -14,16 +14,12 @@
 	<string>Lanka Symbols</string>
 	<key>guidelines</key>
 	<array/>
-	<key>italicAngle</key>
-	<integer>0</integer>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2018/02/14 09:37:36</string>
 	<key>openTypeNameDesigner</key>
 	<string>Multiple Desingers</string>
-	<key>openTypeNameDesignerURL</key>
-	<string></string>
 	<key>openTypeNameLicense</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>

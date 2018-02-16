@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+	<advance width="639"/>
+	<unicode hex="0058"/>
+	<outline>
+		<contour>
+			<point x="540" y="0" type="line"/>
+			<point x="633" y="0" type="line"/>
+			<point x="367" y="378" type="line"/>
+			<point x="320" y="440" type="line"/>
+			<point x="108" y="740" type="line"/>
+			<point x="15" y="740" type="line"/>
+			<point x="271" y="377" type="line"/>
+			<point x="319" y="315" type="line"/>
+		</contour>
+		<contour>
+			<point x="5" y="0" type="line"/>
+			<point x="97" y="0" type="line"/>
+			<point x="319" y="315" type="line"/>
+			<point x="367" y="378" type="line"/>
+			<point x="622" y="740" type="line"/>
+			<point x="532" y="740" type="line"/>
+			<point x="320" y="440" type="line"/>
+			<point x="271" y="377" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-16 04:44:24 +0000</string>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
