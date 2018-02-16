@@ -2,6 +2,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+_site
 
 # sources
 *(Autosaved).glyphs
