@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ls-sls" format="2">
-	<unicode hex="E002"/>
+<glyph name="lki-sls" format="2">
 	<advance width="895"/>
+	<unicode hex="E010"/>
 	<outline>
 		<contour>
 			<point x="191" y="606" type="line"/>
@@ -133,7 +133,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 08:00:55 +0000</string>
+			<string>2018-02-16 09:27:23 +0000</string>
 		</dict>
 	</lib>
 </glyph>

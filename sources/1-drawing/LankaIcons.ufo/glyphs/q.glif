@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="2">
-	<unicode hex="0071"/>
 	<advance width="565"/>
+	<unicode hex="0071"/>
 	<outline>
 		<contour>
 			<point x="409" y="-220" type="line"/>

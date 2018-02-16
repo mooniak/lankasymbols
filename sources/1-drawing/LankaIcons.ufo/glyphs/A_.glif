@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-	<unicode hex="0041"/>
 	<advance width="674"/>
+	<unicode hex="0041"/>
+	<note>
+		520
+  </note>
 	<outline>
 		<contour>
 			<point x="14" y="0" type="line"/>
@@ -32,7 +35,4 @@
 			</dict>
 		</dict>
 	</lib>
-	<note>
-		520
-	</note>
 </glyph>
