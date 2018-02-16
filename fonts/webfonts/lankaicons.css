@@ -5,8 +5,9 @@
     font-family: 'LankaIcons';
     font-style: normal;
     font-weight: normal;
-    src: url("LankaIcons-Regular.woff"),format("woff");
-    src: url("LankaIcons-Regular.woff2") format("woff2");
+    src: url("LankaIcons.ttf"),format("trutype");
+    src: url("LankaIcons.woff"),format("woff");
+    src: url("LankaIcons.woff2") format("woff2");
 }
 
 .ls{
