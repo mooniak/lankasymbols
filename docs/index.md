@@ -2,7 +2,7 @@
 layout: home
 ---
 
-
+This project is still in early development. 
 
 | ICON                                | NAME                  | UNICODE   |   HTML                                         | Text                                        |
 | :---                                |:-----                 | :-----    | :--------------------------------------------  |:--------------------------------------------  |
@@ -25,7 +25,6 @@ layout: home
 
 
 
-THIS &#xE001☪
 
 ## How to use
 
