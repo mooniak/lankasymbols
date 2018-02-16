@@ -1,0 +1,25 @@
+# Site settings
+title: LankaIcons
+baseurl:
+url:
+
+# SEO
+twitter:
+  username: mooniakhq
+facebook:
+ app_id: 1821346694770413
+logo:
+social:
+  name: Textual
+  links:
+    - https://instagram.com/textual.works
+    - https://www.facebook.com/textualworks
+    - https://github.com/textualworks
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
+plugins:
+  - jekyll-seo-tag
