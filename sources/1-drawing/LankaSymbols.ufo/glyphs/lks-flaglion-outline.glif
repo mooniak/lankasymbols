@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lki-flaglion-outline" format="2">
+<glyph name="lks-flaglion-outline" format="2">
 	<advance width="973"/>
-	<unicode hex="E001"/>
+	<unicode hex="EC80"/>
+	<note>
+		Lion from the Sri Lanka flag. Outline.
+  </note>
 	<outline>
 		<contour>
 			<point x="276" y="174" type="curve" smooth="yes"/>
@@ -2014,7 +2017,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 08:40:28 +0000</string>
+			<string>2018-02-17 15:41:43 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
 		</dict>
 	</lib>
 </glyph>

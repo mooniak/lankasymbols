@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lki-punkalasa" format="2">
+<glyph name="lks-punkalasa" format="2">
 	<advance width="615"/>
-	<unicode hex="F302"/>
+	<unicode hex="F0A9"/>
+	<note>
+		
+  </note>
 	<outline>
 		<contour>
 			<point x="26" y="11" type="line"/>
@@ -1029,7 +1032,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 08:41:54 +0000</string>
+			<string>2018-02-17 15:37:07 +0000</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
 		</dict>
 	</lib>
 </glyph>

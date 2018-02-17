@@ -96,21 +96,22 @@
 		<string>cross</string>
 		<string>starAndCrescent</string>
 		<string>wheelOfDharma</string>
-		<string>lki-lkflaglion</string>
-		<string>lki-flaglion-outline</string>
-		<string>lki-sls</string>
-		<string>lki-budusaranayi</string>
-		<string>lki-bulath</string>
-		<string>lki-pahan</string>
-		<string>lki-stupa</string>
-		<string>lki-elephantL</string>
-		<string>lki-elephantR</string>
-		<string>lki-punkalasa</string>
-		<string>lki-bahirawa</string>
-		<string>lki-walakul</string>
-		<string>lki-kambi</string>
+		<string>lks-lkflaglion</string>
+		<string>lks-flaglion-outline</string>
+		<string>lks-sls</string>
+		<string>lks-budusaranayi</string>
+		<string>lks-bulath</string>
+		<string>lks-pahan</string>
+		<string>lks-stupa</string>
+		<string>lks-elephantL-BR</string>
+		<string>lks-elephantR-BR</string>
+		<string>lks-punkalasa</string>
+		<string>lks-bahirawa-BR</string>
+		<string>lks-walakul-BR</string>
+		<string>lks-kambi-BR</string>
+		<string>lks-tutuk</string>
 		<string>mooniak</string>
-		<string>lki-tutuk</string>
+		<string>lks-gov</string>
 	</array>
 </dict>
 </plist>

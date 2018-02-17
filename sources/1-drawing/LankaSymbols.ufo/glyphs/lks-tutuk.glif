@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lki-tutuk" format="2">
+<glyph name="lks-tutuk" format="2">
 	<advance width="1026"/>
-	<unicode hex="F600"/>
+	<unicode hex="F4D6"/>
+	<note>
+		
+  </note>
 	<outline>
 		<contour>
 			<point x="157" y="544" type="curve"/>
@@ -2982,7 +2985,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 10:35:33 +0000</string>
+			<string>2018-02-17 15:31:42 +0000</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
 		</dict>
 	</lib>
 </glyph>

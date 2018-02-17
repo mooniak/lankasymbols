@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lki-stupa" format="2">
+<glyph name="lks-stupa" format="2">
 	<advance width="719"/>
-	<unicode hex="F102"/>
+	<unicode hex="F0B0"/>
+	<note>
+		Buddhist stupa
+  </note>
 	<outline>
 		<contour>
 			<point x="353" y="771" type="curve" smooth="yes"/>
@@ -167,7 +170,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 08:42:35 +0000</string>
+			<string>2018-02-17 15:37:07 +0000</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
 		</dict>
 	</lib>
 </glyph>

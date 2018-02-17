@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lki-bulath" format="2">
+<glyph name="lks-bulath" format="2">
 	<advance width="932"/>
-	<unicode hex="F100"/>
+	<unicode hex="F4D3"/>
+	<note>
+		
+  </note>
 	<outline>
 		<contour>
 			<point x="194" y="322" type="line"/>
@@ -602,7 +605,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 08:41:00 +0000</string>
+			<string>2018-02-17 15:23:28 +0000</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
 		</dict>
 	</lib>
 </glyph>

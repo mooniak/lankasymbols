@@ -7,15 +7,13 @@
 	<key>capHeight</key>
 	<integer>740</integer>
 	<key>copyright</key>
-	<string>Copyright 2018 Lanka Symbols font project authors</string>
+	<string>Copyright 2018 Lanka Symbols font project Authors, Copyright 2012 The Encode Project Authors</string>
 	<key>descender</key>
 	<integer>-220</integer>
 	<key>familyName</key>
 	<string>Lanka Symbols</string>
 	<key>guidelines</key>
 	<array/>
-	<key>note</key>
-	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2018/02/14 09:37:36</string>
 	<key>openTypeNameDescription</key>
@@ -75,8 +73,6 @@
 	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
-	<key>trademark</key>
-	<string></string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

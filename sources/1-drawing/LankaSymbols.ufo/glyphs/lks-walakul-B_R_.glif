@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lki-walakul" format="2">
+<glyph name="lks-walakul-BR" format="2">
 	<advance width="1334"/>
-	<unicode hex="F401"/>
+	<unicode hex="F6E9"/>
+	<note>
+		
+  </note>
 	<outline>
 		<contour>
 			<point x="124" y="380" type="curve" smooth="yes"/>
@@ -408,7 +411,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 08:43:13 +0000</string>
+			<string>2018-02-17 15:37:51 +0000</string>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
 		</dict>
 	</lib>
 </glyph>

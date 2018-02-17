@@ -2,6 +2,9 @@
 <glyph name="cross" format="2">
 	<advance width="656"/>
 	<unicode hex="271D"/>
+	<note>
+		
+  </note>
 	<outline>
 		<contour>
 			<point x="331" y="368" type="curve" smooth="yes"/>
@@ -193,7 +196,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 08:50:39 +0000</string>
+			<string>2018-02-17 08:32:51 +0000</string>
 		</dict>
 	</lib>
 </glyph>

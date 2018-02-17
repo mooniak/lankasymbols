@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="starAndCrescent" format="2">
-	<advance width="600"/>
+	<advance width="763"/>
 	<unicode hex="262A"/>
+	<note>
+		
+  </note>
 	<outline>
 		<contour>
 			<point x="457" y="467" type="curve"/>
@@ -67,7 +70,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 08:49:18 +0000</string>
+			<string>2018-02-17 08:32:51 +0000</string>
 		</dict>
 	</lib>
 </glyph>

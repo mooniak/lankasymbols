@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lki-budusaranayi" format="2">
+<glyph name="lks-budusaranayi" format="2">
 	<advance width="2771"/>
-	<unicode hex="F000"/>
+	<unicode hex="EE94"/>
+	<note>
+		Budu Sranayi written in Sinhala. A common typographic artifact.
+  </note>
 	<outline>
 		<contour>
 			<point x="146" y="167" type="line"/>
@@ -304,7 +307,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 08:44:11 +0000</string>
+			<string>2018-02-17 15:27:32 +0000</string>
+			<key>public.markColor</key>
+			<string>0.18,0.16,0.78,1</string>
 		</dict>
 	</lib>
 </glyph>

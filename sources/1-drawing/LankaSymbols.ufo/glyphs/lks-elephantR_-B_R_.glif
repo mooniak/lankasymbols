@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lki-elephantR" format="2">
+<glyph name="lks-elephantR-BR" format="2">
 	<advance width="917"/>
-	<unicode hex="F301"/>
+	<unicode hex="F2BF"/>
+	<note>
+		
+  </note>
 	<outline>
 		<contour>
 			<point x="184" y="626" type="curve"/>
@@ -1988,7 +1991,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 10:24:42 +0000</string>
+			<string>2018-02-17 15:24:08 +0000</string>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
 		</dict>
 	</lib>
 </glyph>

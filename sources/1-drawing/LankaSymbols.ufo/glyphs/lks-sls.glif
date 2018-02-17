@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lki-sls" format="2">
+<glyph name="lks-sls" format="2">
 	<advance width="895"/>
-	<unicode hex="E010"/>
+	<unicode hex="EC82"/>
+	<note>
+		Sri Lanka Standard logo.
+  </note>
 	<outline>
 		<contour>
 			<point x="191" y="606" type="line"/>
@@ -133,7 +136,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-16 09:27:23 +0000</string>
+			<string>2018-02-17 16:52:19 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
 		</dict>
 	</lib>
 </glyph>

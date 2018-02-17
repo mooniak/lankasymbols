@@ -90,34 +90,36 @@
 	<string>k.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
-	<key>lki-bahirawa</key>
-	<string>lki-bahirawa.glif</string>
-	<key>lki-budusaranayi</key>
-	<string>lki-budusaranayi.glif</string>
-	<key>lki-bulath</key>
-	<string>lki-bulath.glif</string>
-	<key>lki-elephantL</key>
-	<string>lki-elephantL_.glif</string>
-	<key>lki-elephantR</key>
-	<string>lki-elephantR_.glif</string>
-	<key>lki-flaglion-outline</key>
-	<string>lki-flaglion-outline.glif</string>
-	<key>lki-kambi</key>
-	<string>lki-kambi.glif</string>
-	<key>lki-lkflaglion</key>
-	<string>lki-lkflaglion.glif</string>
-	<key>lki-pahan</key>
-	<string>lki-pahan.glif</string>
-	<key>lki-punkalasa</key>
-	<string>lki-punkalasa.glif</string>
-	<key>lki-sls</key>
-	<string>lki-sls.glif</string>
-	<key>lki-stupa</key>
-	<string>lki-stupa.glif</string>
-	<key>lki-tutuk</key>
-	<string>lki-tutuk.glif</string>
-	<key>lki-walakul</key>
-	<string>lki-walakul.glif</string>
+	<key>lks-bahirawa-BR</key>
+	<string>lks-bahirawa-B_R_.glif</string>
+	<key>lks-budusaranayi</key>
+	<string>lks-budusaranayi.glif</string>
+	<key>lks-bulath</key>
+	<string>lks-bulath.glif</string>
+	<key>lks-elephantL-BR</key>
+	<string>lks-elephantL_-B_R_.glif</string>
+	<key>lks-elephantR-BR</key>
+	<string>lks-elephantR_-B_R_.glif</string>
+	<key>lks-flaglion-outline</key>
+	<string>lks-flaglion-outline.glif</string>
+	<key>lks-gov</key>
+	<string>lks-gov.glif</string>
+	<key>lks-kambi-BR</key>
+	<string>lks-kambi-B_R_.glif</string>
+	<key>lks-lkflaglion</key>
+	<string>lks-lkflaglion.glif</string>
+	<key>lks-pahan</key>
+	<string>lks-pahan.glif</string>
+	<key>lks-punkalasa</key>
+	<string>lks-punkalasa.glif</string>
+	<key>lks-sls</key>
+	<string>lks-sls.glif</string>
+	<key>lks-stupa</key>
+	<string>lks-stupa.glif</string>
+	<key>lks-tutuk</key>
+	<string>lks-tutuk.glif</string>
+	<key>lks-walakul-BR</key>
+	<string>lks-walakul-B_R_.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>mooniak</key>
