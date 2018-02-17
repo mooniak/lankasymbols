@@ -5,12 +5,12 @@
     font-family: 'LankaSymbols';
     font-style: normal;
     font-weight: normal;
-    src: url("LankaSymbols.ttf"),format("trutype");
-    src: url("LankaSymbols.woff"),format("woff");
-    src: url("LankaSymbols.woff2") format("woff2");
+    src: url("LankaSymbols.ttf?v0.010DEV#02ff122"),format("trutype");
+    src: url("LankaSymbols.woff?v0.010DEV#02ff122"),format("woff");
+    src: url("LankaSymbols.woff2?v0.010DEV#02ff122") format("woff2");
 }
 
-.lki{
+.lks{
     font-family: 'LankaSymbols';
     font-style: normal;
     display:inline-block;
@@ -20,20 +20,21 @@
     -moz-osx-font-smoothing:grayscale;
 }
 
-.cross:before {content: "\271D";}
 .starAndCrescent:before {content: "\262A";}
 .wheelOfDharma:before {content: "\2638";}
-.lki-lkflaglion:before {content: "\E000";}
-.lki-flaglion-outline:before {content: "\E001";}
-.lki-sls:before {content: "\E010";}
-.lki-budusaranayi:before {content: "\F000";}
-.lki-bulath:before {content: "\F100";}
-.lki-pahan:before {content: "\F101";}
-.lki-stupa:before {content: "\F102";}
-.lki-elephantL:before {content: "\F300";}
-.lki-elephantR:before {content: "\F301";}
-.lki-punkalasa:before {content: "\F302";}
-.lki-bahirawa:before {content: "\F400";}
-.lki-walakul:before {content: "\F401";}
-.lki-kambi:before {content: "\F500";}
-.lki-tutuk:before {content: "\F600";}
+.cross:before {content: "\271D";}
+.lks-lkflaglion:before {content: "\EC7F";}
+.lks-flaglion-outline:before {content: "\EC80";}
+.lks-gov:before {content: "\EC81";}
+.lks-sls:before {content: "\EC82";}
+.lks-budusaranayi:before {content: "\EE94";}
+.lks-punkalasa:before {content: "\F0A9";}
+.lks-stupa:before {content: "\F0B0";}
+.lks-elephantL-BR:before {content: "\F2BE";}
+.lks-elephantR-BR:before {content: "\F2BF";}
+.lks-bahirawa-BR:before {content: "\F2C0";}
+.lks-bulath:before {content: "\F4D3";}
+.lks-pahan:before {content: "\F4D4";}
+.lks-tutuk:before {content: "\F4D6";}
+.lks-kambi-BR:before {content: "\F6E8";}
+.lks-walakul-BR:before {content: "\F6E9";}
