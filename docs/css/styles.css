@@ -209,10 +209,11 @@ pre > code {
 }
 
 .container {
-    width: 80vw;
+    width: 800px;
     margin: 0 auto;
     left: 0;
     padding: 0 1rem;
+    text-align:
 }
 
 .mooniak-logo-big {
@@ -231,7 +232,7 @@ pre > code {
     display: block;
     text-align: center;
     max-width: 200px;
-    margin: 10px 0px;
+    margin: 0px auto;
 }
 
 .btn-big {

@@ -2,6 +2,8 @@
 layout: home
 ---
 
+***
+
 ## How to use on desktop
 - Download the [fonts](http://textual.works/downloads/lankasymbols)
 - Use the following chart to find the symbol you want to use and copy and paste the icon from TEXT column in the symbols chart.
@@ -17,7 +19,7 @@ Add following inside <head> and use the correct string from  HTML column in the 
 !IMPORTANT: This project is still in early development and things keep changing. Do not use for production websites.
 
 
-## Symbols charts
+## Symbols
 
 | ICON                                | DESCRIPTION                  | UNICODE   |   HTML                                         | TEXT                                       |
 | :---                                |:-----                 | :-----    | :--------------------------------------------  |:--------------------------------------------  |
@@ -40,6 +42,28 @@ Add following inside <head> and use the correct string from  HTML column in the 
 | <i class="lks lks-tutuk"></i> | lks-tutuk |  `u+F4D6` |  `<i class="ls lks-tutuk"></i>`| <span class="display-text"></span> |
 | <i class="lks lks-gov"></i> | lks-gov |  `u+EC81` |  `<i class="ls lks-gov"></i>`| <span class="display-text"></span> |
 
+
+## About
+
+This is free and open source project maintained by [Textual](http://textual.works) with the support form the community. See [CONTRIBUTORS](https://github.com/textualworks/lankasymbols/blob/master/)
+
+### Unicode ranges
+Project uses Unicode standard Private User Area. We have a simple guidelines on how we assign code points to symbols for now.
+
+| RANGE     | DESCRIPTION                             | SAMPLE   |                                         
+| :---      | :---                                    | :--- |
+|`E000–E215`|	                                        | |           
+|`E216–E42A`|	                                        | |
+|`E42B–E63F`|	                                        | |
+|`E640–E854`|	                                        | |
+|`E855–EA69`|	                                        | |
+|`EA6A–EC7E`|	                                        | |
+|`EC7F–EE93`|	Official and brands                     | |         
+|`EE94–F0A8`|	Typographic symbols                     | |                           
+|`F0A9–F2BD`|	Historical cultural symbols             | |                             
+|`F2BE–F4D2`|	Historical cultural symbols – Border    | |                             
+|`F4D3–F6E7`|	Cultural symbols                        | |            
+|`F6E8–F8FC`|	Cultural symbols – Borders              | |                 
 
 
 
@@ -72,27 +96,6 @@ This is an open source project. If you would like to contribute by drawing a few
 - Send a pull request. Also include all the  info as above.
 
 
-## About
-
-This is free and open source project. See [CONTRIBUTORS](https://github.com/textualworks/lankasymbols/blob/master/)
-
-
-This is not a absolute definition. Just a guideline to be used for ease of managing.
-
-| RANGE     | DESCRIPTION                             | SAMPLE   |                                         
-| :---      | :---                                    | :--- |
-|`E000–E215`|	                                        | |           
-|`E216–E42A`|	                                        | |
-|`E42B–E63F`|	                                        | |
-|`E640–E854`|	                                        | |
-|`E855–EA69`|	                                        | |
-|`EA6A–EC7E`|	                                        | |
-|`EC7F–EE93`|	Official and brands                     | |         
-|`EE94–F0A8`|	Typographic symbols                     | |                           
-|`F0A9–F2BD`|	Historical cultural symbols             | |                             
-|`F2BE–F4D2`|	Historical cultural symbols – Border    | |                             
-|`F4D3–F6E7`|	Cultural symbols                        | |            
-|`F6E8–F8FC`|	Cultural symbols – Borders              | |                 
 
 
 ## LICENSE
