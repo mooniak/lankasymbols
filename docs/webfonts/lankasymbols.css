@@ -1,0 +1,40 @@
+/*
+* Lanka Symbols DEV
+*/
+@font-face {
+    font-family: 'LankaSymbols';
+    font-style: normal;
+    font-weight: normal;
+    src: url("LankaSymbols.ttf?v0.010DEV#02ff122"),format("trutype");
+    src: url("LankaSymbols.woff?v0.010DEV#02ff122"),format("woff");
+    src: url("LankaSymbols.woff2?v0.010DEV#02ff122") format("woff2");
+}
+
+.lks{
+    font-family: 'LankaSymbols';
+    font-style: normal;
+    display:inline-block;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+}
+
+.starAndCrescent:before {content: "\262A";}
+.wheelOfDharma:before {content: "\2638";}
+.cross:before {content: "\271D";}
+.lks-lkflaglion:before {content: "\EC7F";}
+.lks-flaglion-outline:before {content: "\EC80";}
+.lks-gov:before {content: "\EC81";}
+.lks-sls:before {content: "\EC82";}
+.lks-budusaranayi:before {content: "\EE94";}
+.lks-punkalasa:before {content: "\F0A9";}
+.lks-stupa:before {content: "\F0B0";}
+.lks-elephantL-BR:before {content: "\F2BE";}
+.lks-elephantR-BR:before {content: "\F2BF";}
+.lks-bahirawa-BR:before {content: "\F2C0";}
+.lks-bulath:before {content: "\F4D3";}
+.lks-pahan:before {content: "\F4D4";}
+.lks-tutuk:before {content: "\F4D6";}
+.lks-kambi-BR:before {content: "\F6E8";}
+.lks-walakul-BR:before {content: "\F6E9";}
