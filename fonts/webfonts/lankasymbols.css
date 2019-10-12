@@ -20,21 +20,21 @@
     -moz-osx-font-smoothing:grayscale;
 }
 
-.starAndCrescent:before {content: "\262A";}
-.wheelOfDharma:before {content: "\2638";}
-.cross:before {content: "\271D";}
-.lks-lkflaglion:before {content: "\EC7F";}
-.lks-flaglion-outline:before {content: "\EC80";}
+.lks-star-and-crescent:before {content: "\262A";}
+.lks-wheel-of-dharma:before {content: "\2638";}
+.lks-cross:before {content: "\271D";}
+.lks-lk-flag-lion:before {content: "\EC7F";}
+.lks-lk-flag-lion-o:before {content: "\EC80";}
 .lks-gov:before {content: "\EC81";}
 .lks-sls:before {content: "\EC82";}
 .lks-budusaranayi:before {content: "\EE94";}
 .lks-punkalasa:before {content: "\F0A9";}
 .lks-stupa:before {content: "\F0B0";}
-.lks-elephantL-BR:before {content: "\F2BE";}
-.lks-elephantR-BR:before {content: "\F2BF";}
-.lks-bahirawa-BR:before {content: "\F2C0";}
+.lks-elephant-l-br:before {content: "\F2BE";}
+.lks-elephant-r-br:before {content: "\F2BF";}
+.lks-bahirawa-br:before {content: "\F2C0";}
 .lks-bulath:before {content: "\F4D3";}
 .lks-pahan:before {content: "\F4D4";}
-.lks-tutuk:before {content: "\F4D6";}
-.lks-kambi-BR:before {content: "\F6E8";}
-.lks-walakul-BR:before {content: "\F6E9";}
+.lks-tuk:before {content: "\F4D6";}
+.lks-kambi-br:before {content: "\F6E8";}
+.lks-walakul-br:before {content: "\F6E9";}
