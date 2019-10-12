@@ -12,3 +12,5 @@ When you make modifications, be sure to add your name (N), email (E), web-addres
 - N: Asith Chandana (සිත් ඇඳි රූ)
 
 - N: Asanka Chamara Uyanege
+
+- N: Chathura Buddhika (chathurabuddi)
