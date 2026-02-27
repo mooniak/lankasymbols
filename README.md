@@ -1,5 +1,5 @@
 ## LankaSymbols
-LankaSymbols is a free and open source project maintained by [Textual](http://textual.works) with the support form the community. See [CONTRIBUTORS](https://github.com/akurufoundry/lankasymbols/blob/master/CONTRIBUTORS.md)
+LankaSymbols is a free and open source project maintained by Mooniak with the support form the community. See [CONTRIBUTORS](https://github.com/akurufoundry/lankasymbols/blob/master/CONTRIBUTORS.md)
 
 ### How to use on desktop
 - Download the [fonts](http://textual.works/downloads/lankasymbols)
