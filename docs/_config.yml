@@ -10,11 +10,11 @@ facebook:
  app_id: 1821346694770413
 logo:
 social:
-  name: Textual
+  name: Mooniak
   links:
-    - https://instagram.com/textual.works
-    - https://www.facebook.com/textualworks
-    - https://github.com/textualworks
+    - https://www.instagram.com/mooniak/
+    - https://www.facebook.com/mooniak
+    - https://github.com/mooniak
 
 # Build settings
 markdown: kramdown

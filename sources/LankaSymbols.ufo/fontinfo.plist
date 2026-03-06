@@ -19,15 +19,15 @@
 	<key>openTypeNameDescription</key>
 	<string>Icons for Sri Lanka</string>
 	<key>openTypeNameDesigner</key>
-	<string>Multiple Desingers</string>
+	<string>Multiple Designers</string>
 	<key>openTypeNameLicense</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Textual</string>
+	<string>Mooniak</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>http://textual.works/</string>
+	<string>https://mooniak.com/</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Lanka Symbols</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -46,7 +46,7 @@
 		<integer>60</integer>
 	</array>
 	<key>openTypeOS2VendorID</key>
-	<string>txtl</string>
+	<string>MNKK</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>

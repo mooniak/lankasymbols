@@ -1,13 +1,14 @@
 /*
-* Lanka Symbols DEV
+* Lanka Symbols
+* Mooniak — https://mooniak.com
 */
 @font-face {
     font-family: 'LankaSymbols';
     font-style: normal;
     font-weight: normal;
-    src: url("LankaSymbols.ttf?v0.010DEV#02ff122"),format("trutype");
-    src: url("LankaSymbols.woff?v0.010DEV#02ff122"),format("woff");
-    src: url("LankaSymbols.woff2?v0.010DEV#02ff122") format("woff2");
+    src: url("LankaSymbols.woff2") format("woff2"),
+         url("LankaSymbols.woff") format("woff"),
+         url("LankaSymbols.ttf") format("truetype");
 }
 
 .lks{

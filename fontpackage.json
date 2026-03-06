@@ -1,0 +1,86 @@
+{
+  "name": "LankaSymbols",
+  "id": "lankasymbols",
+  "type": "family",
+  "designer": [
+    "Mooniak"
+  ],
+  "scripts": [
+    "Zsym"
+  ],
+  "description": "A free and open source symbolic font for Sri Lankan cultural and official symbols, maintained by Mooniak.",
+  "license": "OFL-1.1",
+  "channels": [
+    "release",
+    "dev",
+    "nightly"
+  ],
+  "versions_provider": "tags",
+  "repository": {
+    "url": "https://github.com/mooniak/lankasymbols",
+    "type": "git"
+  },
+  "homepage_url": "https://src.mooniak.com/lankasymbols/",
+  "issues_url": "https://github.com/mooniak/lankasymbols/issues/",
+  "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
+  "foundry": {
+    "name": "mooniak",
+    "email": "hello@mooniak.com",
+    "url": "https://mooniak.com/",
+    "vendor_id": "MNIK"
+  },
+  "designers": [
+    {
+      "name": "Pathum Egodawatta",
+      "email": "pathum@mooniak.com",
+      "url": "https://pathumego.com/"
+    }
+  ],
+  "maintenance": {
+    "status": "actively-developed",
+    "comment": ""
+  },
+  "tools": "",
+  "progress": {
+    "design": 80,
+    "family_styles": 60,
+    "character_set": 70,
+    "drawing_quality": 80,
+    "spacing": 80,
+    "kerning": 0,
+    "hinting": 0,
+    "opentype_features": 60
+  },
+  "tags": {
+    "style": "symbols",
+    "contrast": "none",
+    "width": "normal",
+    "body_height": "normal",
+    "intended_usage": "branding",
+    "figures": "none",
+    "languages": [
+      "si_LK",
+      "ta_LK",
+      "en_US"
+    ],
+    "related_fonts": []
+  },
+  "display_texts": {
+    "en_US": "Sri Lankan cultural and official symbols.",
+    "si_LK": "",
+    "ta_LK": ""
+  },
+  "display_images": {
+    "banner": "",
+    "thumbnail": "",
+    "small": "",
+    "medium": "",
+    "large": ""
+  },
+  "links": {
+    "font_in_use": "",
+    "googlefonts": "",
+    "fontlibrary_org": "",
+    "typekit": ""
+  }
+}
