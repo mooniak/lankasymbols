@@ -6,7 +6,7 @@
     "Mooniak"
   ],
   "scripts": [
-    "Zsym"
+    "Symbols"
   ],
   "description": "A free and open source symbolic font for Sri Lankan cultural and official symbols, maintained by Mooniak.",
   "license": "OFL-1.1",
@@ -65,22 +65,26 @@
     ],
     "related_fonts": []
   },
-  "display_texts": {
-    "en_US": "Sri Lankan cultural and official symbols.",
-    "si_LK": "",
-    "ta_LK": ""
-  },
-  "display_images": {
-    "banner": "",
-    "thumbnail": "",
-    "small": "",
-    "medium": "",
-    "large": ""
-  },
-  "links": {
-    "font_in_use": "",
-    "googlefonts": "",
-    "fontlibrary_org": "",
-    "typekit": ""
+  "directory": {
+    "listed": true,
+    "display_texts": {
+      "override": "",
+      "en_US": "Sri Lankan cultural and official symbols.",
+      "si_LK": "",
+      "ta_LK": ""
+    },
+    "display_images": {
+      "banner": "",
+      "thumbnail": "",
+      "small": "",
+      "medium": "",
+      "large": ""
+    },
+    "links": {
+      "font_in_use": "",
+      "googlefonts": "",
+      "fontlibrary_org": "",
+      "typekit": ""
+    }
   }
 }
