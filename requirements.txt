@@ -47,7 +47,7 @@ picosvg==0.22.3
 pillow==12.3.0
 platformdirs==4.10.0
 pngquant-cli==3.0.3
-protobuf==3.20.3
+protobuf==5.29.6
 pybind11==3.0.4
 pyclipper==1.4.0
 pycparser==3.0
