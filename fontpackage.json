@@ -17,11 +17,11 @@
   ],
   "versions_provider": "tags",
   "repository": {
-    "url": "https://github.com/mooniak/lankasymbols",
+    "url": "https://github.com/mooniak/lankasymbols-font",
     "type": "git"
   },
-  "homepage_url": "https://src.mooniak.com/lankasymbols/",
-  "issues_url": "https://github.com/mooniak/lankasymbols/issues/",
+  "homepage_url": "https://src.mooniak.com/lankasymbols-font/",
+  "issues_url": "https://github.com/mooniak/lankasymbols-font/issues/",
   "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
   "foundry": {
     "name": "mooniak",
