@@ -11,9 +11,8 @@
   "description": "A free and open source symbolic font for Sri Lankan cultural and official symbols, maintained by Mooniak.",
   "license": "OFL-1.1",
   "channels": [
-    "release",
-    "dev",
-    "nightly"
+    "canary",
+    "dev"
   ],
   "versions_provider": "tags",
   "repository": {
