@@ -3,13 +3,14 @@
   "id": "lankasymbols",
   "type": "family",
   "designer": [
-    "Mooniak"
+    "Pathum Egodawatta"
   ],
   "scripts": [
     "Symbols"
   ],
   "description": "A free and open source symbolic font for Sri Lankan cultural and official symbols, maintained by Mooniak.",
   "license": "OFL-1.1",
+  "tier": "free",
   "channels": [
     "canary",
     "dev"
