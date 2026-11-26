@@ -9,3 +9,7 @@ _site
 /build
 /fontester
 /out
+
+# image_to_glyph.py tooling
+/.venv-imgtools
+images/.*-debug/
